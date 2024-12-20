@@ -41,7 +41,7 @@ The repository is structured as follows:
 ### For Personal Use
 - Clone the repository to your system:
   ```bash
-  git clone https://github.com/your-username/kaushala-kosha.git
+  git clone https://github.com/Omii1908/kaushala-kosha.git
   ```
 - Explore the repository structure to find exercises, projects, and resources.
 - Use it to practice coding and track progress over time.
