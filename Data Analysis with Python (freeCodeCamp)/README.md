@@ -1,7 +1,4 @@
-Here's the updated version of your **README** file in markdown format:
-
-```markdown
-# Data Analysis with Python (FreeCodeCamp)
+## Data Analysis with Python (FreeCodeCamp)
 
 Welcome to my **Data Analysis with Python** certification repository! This repository contains my projects and solutions for completing the certification from [FreeCodeCamp](https://www.freecodecamp.org/).
 
